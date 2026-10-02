@@ -1,0 +1,6 @@
+{
+  "name": "Calcora",
+  "description": "Calculate Anything. Convert Everything. All-in-one scientific, graphing, finance, unit conversion, health, math, and AI calculator platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
